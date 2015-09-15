@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenuAndroid15701</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="MenuMensajeItems">Felicidades Seleccionaste la opcion %s !!!!!!</string>
+</resources>
